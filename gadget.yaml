@@ -1,8 +1,8 @@
-name: "@GADGET_NAME@"
+name: "gadget-foo"
 description: Periodically report chdir syscall counts by process
-homepageURL: https://github.com/@REPOSITORY@
-documentationURL: https://github.com/@REPOSITORY@#readme
-sourceURL: https://github.com/@REPOSITORY@
+homepageURL: https://github.com/mqasimsarfraz/gadget-foo
+documentationURL: https://github.com/mqasimsarfraz/gadget-foo#readme
+sourceURL: https://github.com/mqasimsarfraz/gadget-foo
 datasources:
   calls:
     fields:
